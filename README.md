@@ -11,3 +11,8 @@ The primary goal is to provide a rapid calculation of the **Skeletal Muscle Inde
 * **Toolboxes:** Deep Learning Toolbox, Image Processing Toolbox
 * **Architecture:** U-Net 
 * **Input Format:** CT Scans (.png / .jpg / .dcm)
+
+### Pre-trained Model Download
+Due to GitHub's file size limitations, the trained model is hosted on Google Drive 
+1. Download the model: [ModelFinalMuschi_V4.mat](https://drive.google.com/file/d/1s9LvLGq42qwKzTduCwGcEKVlxhWNUPW0/view?usp=sharing)
+2.Place the file in the project's root folder before running the application.
